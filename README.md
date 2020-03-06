@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Simples conversor de moedas utilizando Vue JS.
+Referencia: https://www.youtube.com/watch?v=tIEa3MRBpI0
